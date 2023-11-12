@@ -11,8 +11,8 @@ export default function Home() {
           {/* Substitua YourImage pelo nome da sua imagem */}
           
         </div>
-        <h1>Davi, Samuel, Cauan, Pedro</h1>
-        <p>Sua descrição o conteúdo</p>
+        <h1>Seu Titulo</h1>
+        <p>Sua descrição ou conteúdo</p>
         {/* Adicione mais elementos conforme necessário */}
       </div>
     </main>
